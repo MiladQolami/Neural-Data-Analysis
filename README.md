@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/76477833/210067487-58ac6ecd-c7fa-4a8d-988f-a6b9cf8f61f9.png" width="600" height="400">
 
 
-# Direct links to the Colab Notebooks
+# Direct links to code scripts
 ---
 |  Title | Notebook|
 | - | ---------|
