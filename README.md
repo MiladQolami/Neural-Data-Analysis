@@ -14,3 +14,4 @@
 | - | ---------|
 |**Spike Train Visualization**|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiladQolami/BasicNeuralDataAnalysis/blob/main/MainCode.ipynb)|
 |**ERP Analysis**|----|
+|**Eye Tracker Data**| ----|
