@@ -13,7 +13,7 @@
 |  Title | Notebook|
 | - | ---------|
 |**Spike Count Correlation**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MiladQolami/BasicNeuralDataAnalysis/tree/main/SpikeCountCorrelation)|
-|**Spike Train Visualization**|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiladQolami/BasicNeuralDataAnalysis/blob/main/MainCode.ipynb)|
+|**Spike Train Visualization**|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/SpikeTrianVisualization/MainCode.ipynb)|
 |**ERP Analysis**|----|
 |**Visual Psychophysics Task Decsign**|----|
 |**Eye Tracker Data**| ----|
