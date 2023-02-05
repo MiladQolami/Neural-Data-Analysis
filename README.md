@@ -10,11 +10,13 @@
 
 # Direct links to code scripts
 ---
+
 |  Title | Python Notebook/Matlab Code|
 | :-: | :-: |
 |**Spike Train Visualization**|[![direct link](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/images/python-icon.png)](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/SpikeTrianVisualization/MainCode.ipynb)|
 |**Spike Variablity**| [![direct link](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/images/python-icon.png)](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/SpikingVariablity/SpikingVariablity.ipynb)|
+|**Dimensionality Reduction  <br> of neural recording**| [![direct link](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/images/python-icon.png)]()|
 |**Decoding from Spike Trains**| [![direct link](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/images/python-icon.png)](https://github.com/MiladQolami/BasicNeuralDataAnalysis/tree/main/SpikeCountCorrelation)|
 |**ERP Analysis**|   |
-|**Visual Psychophysics Task Decsign**|[![Open MATLAB code](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/images/matlab%20icon%20copy.jpg)](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/VisualPsychophysicsTaskDesign/main_task.m)|
+|**Visual Psychophysics <br> Task Decsign**|[![Open MATLAB code](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/images/matlab%20icon%20copy.jpg)](https://github.com/MiladQolami/Neural-Data-Analysis/blob/main/VisualPsychophysicsTaskDesign/main_task.m)|
 |**Eye Tracker Data**|    |
